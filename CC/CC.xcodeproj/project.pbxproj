@@ -134,7 +134,6 @@
 		E6BF7A8A299EBA0F00756AB3 /* App */ = {
 			isa = PBXGroup;
 			children = (
-				E6BF7A60299EAE5200756AB3 /* CCApp.swift */,
 				E6BF7A62299EAE5200756AB3 /* ContentView.swift */,
 			);
 			path = App;
@@ -179,6 +178,7 @@
 		E6BF7A90299EBB1100756AB3 /* BusinessLogic */ = {
 			isa = PBXGroup;
 			children = (
+				E6BF7A60299EAE5200756AB3 /* CCApp.swift */,
 			);
 			path = BusinessLogic;
 			sourceTree = "<group>";
